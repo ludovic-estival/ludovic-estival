@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 👯 Je suis à la recherche d'un stage pour valider mon année.
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/transparent-dMLmQfCO7lCA2gX3tw">
+  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100>
+  
 </div>

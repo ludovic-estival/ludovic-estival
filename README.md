@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Je suis actuellement étudiant en deuxième année de BUT Informatique à l'IUT de Blagnac.
+- 👯 Je suis à la recherche d'un stage pour valider mon année.
+
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/transparent-dMLmQfCO7lCA2gX3tw">
+</div>

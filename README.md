@@ -22,8 +22,6 @@ Je suis à la recherche d'un stage pour valider mon année.
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ludovic-estival&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 
 ---
@@ -38,6 +36,14 @@ Je suis à la recherche d'un stage pour valider mon année.
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="Java" width="40" height="40"/>&nbsp;
   
 </div>
+
+<br/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ludovic-estival&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludovic-estival&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

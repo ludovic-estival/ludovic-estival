@@ -1,15 +1,17 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" />
-  
 </div>
-
 
 ## :smiley: Présentation :
 
 Je suis actuellement étudiant en deuxième année de BUT Informatique à l'IUT de Blagnac.
 
 Je suis à la recherche d'un stage pour valider mon année.
+
+Je suis intéressé par le développement web et le développement de logiciels.
+
+Pendant mon temps libre, je travaille sur mes projets personnels. En ce moment, j'apprend JavaScript et je l'utilise sur plusieurs sites web.
+Je lis aussi, surtout des livres de fantasy. Enfin, je dessine aussi.
 
 ---
 
@@ -24,7 +26,6 @@ Projets réalisés pendant la première année:
 - [Exploitation d'une base de données](https://github.com/ludovic-estival/projetIUT-exploit-bd)
 - [Création d'un serveur web](https://github.com/ludovic-estival/projetIUT-serveur-web/blob/main/README.md)
 - [Comparaison d'algorithmes](https://github.com/ludovic-estival/projetIUT-comparaison-algos)
-
 - [Création d'un site portfolio](https://github.com/ludovic-estival/portfolio)
 - [Etude d'algorithmes](https://github.com/ludovic-estival/projetIUT-etude-algos)
 - [Implémentation des besoins client](https://github.com/ludovic-estival/projetIUT-besoin-client)
@@ -42,7 +43,7 @@ Mes projets:
 
 ---
 
-## :hammer_and_wrench: Langages :
+## :hammer_and_wrench: Langages et IDEs :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -50,7 +51,14 @@ Mes projets:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="Java" width="40" height="40"/>&nbsp;
-  
+  <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" title="PHP" alt="Java" width="40" height="40"/>&nbsp;
+
+</div>
+
+<div>
+    <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    
 </div>
 
 <br/>

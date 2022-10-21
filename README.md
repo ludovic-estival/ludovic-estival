@@ -17,11 +17,27 @@ Je suis à la recherche d'un stage pour valider mon année.
 
 ### Projets réalisés pendant ma formation
 
+Projets réalisés pendant la première année:
+
+- [Application bancaire](https://github.com/ludovic-estival/projetIUT-app-banque)
+- [Jeu de blackjack](https://github.com/ludovic-estival/projetIUT-app-blackjack)
+- [Exploitation d'une base de données](https://github.com/ludovic-estival/projetIUT-exploit-bd)
+- [Création d'un serveur web](https://github.com/ludovic-estival/projetIUT-serveur-web/blob/main/README.md)
+- [Comparaison d'algorithmes](https://github.com/ludovic-estival/projetIUT-comparaison-algos)
+
+- [Création d'un site portfolio](https://github.com/ludovic-estival/portfolio)
+- [Etude d'algorithmes](https://github.com/ludovic-estival/projetIUT-etude-algos)
+- [Implémentation des besoins client](https://github.com/ludovic-estival/projetIUT-besoin-client)
+- [Recueil des besoins client](https://github.com/ludovic-estival/projetIUT-recueil-besoins)
+
+Projets réalisés pendant la deuxième année:
 
 ### Projets personnels
 
+Mes projets:
 
-
+- [Site d'outils avec JavaScript](https://github.com/ludovic-estival/tools)
+- [Site pour publier mes dessins](https://github.com/ludovic-estival/dessins)
 
 
 ---

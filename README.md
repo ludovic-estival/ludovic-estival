@@ -21,6 +21,8 @@ Je lis beaucoup, surtout des livres de fantasy et je dessine aussi.
 
 Projets réalisés pendant la première année:
 
+(rédaction en cours)
+
 - [Application bancaire](https://github.com/ludovic-estival/projetIUT-app-banque)
 - [Jeu de blackjack](https://github.com/ludovic-estival/projetIUT-app-blackjack)
 - [Exploitation d'une base de données](https://github.com/ludovic-estival/projetIUT-exploit-bd)
@@ -36,6 +38,8 @@ Projets réalisés pendant la deuxième année:
 ### Projets personnels
 
 Mes projets:
+
+(rédaction en cours)
 
 - [Site d'outils avec JavaScript](https://github.com/ludovic-estival/tools)
 - [Site pour publier mes dessins](https://github.com/ludovic-estival/dessins)

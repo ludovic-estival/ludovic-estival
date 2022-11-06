@@ -11,7 +11,7 @@ Je suis à la recherche d'un stage pour valider mon année.
 Je suis intéressé par le développement, le développement de logiciel et les bases de données.
 
 Pendant mon temps libre, je travaille sur mes projets personnels. En ce moment, j'apprend JavaScript et je l'utilise sur plusieurs sites web.
-Je lis beaucoup, surtout des livres de fantasy et je dessine aussi.
+Je lis beaucoup, surtout des livres de fantasy, je dessine et je joue aux échecs.
 
 ---
 

@@ -23,6 +23,7 @@ Projets réalisés pendant la première année:
 
 (rédaction en cours)
 
+- [Site de e-commerce et application IOT Java/Python}(https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-12)
 - [Application bancaire](https://github.com/ludovic-estival/projetIUT-app-banque)
 - [Jeu de blackjack](https://github.com/ludovic-estival/projetIUT-app-blackjack)
 - [Exploitation d'une base de données](https://github.com/ludovic-estival/projetIUT-exploit-bd)

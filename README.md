@@ -27,7 +27,7 @@ Projets réalisés pendant la deuxième année
 
 Projets réalisés pendant la première année:
 
-- [Application bancaire](https://github.com/ludovic-estival/projetIUT-app-banque)
+- [Application bancaire](https://github.com/IUT-Blagnac/sae2022-bank-1b2)
 - [Exploitation d'une base de données](https://github.com/ludovic-estival/projetIUT-exploit-bd)
 - [Création d'un serveur web](https://github.com/ludovic-estival/projetIUT-serveur-web/blob/main/README.md)
 - [Comparaison d'algorithmes](https://github.com/ludovic-estival/projetIUT-comparaison-algos)

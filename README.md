@@ -6,9 +6,7 @@
 
 Je suis actuellement étudiant en deuxième année de BUT Informatique à l'IUT de Blagnac.
 
-Je suis à la recherche d'un stage pour valider mon année.
-
-Je suis intéressé par le développement web, le développement de logiciel et les bases de données.
+Je suis intéressé par le développement web, le développement de logiciels et les bases de données.
 
 Pendant mon temps libre, je travaille sur mes projets personnels. En ce moment, j'apprends JavaScript et je l'utilise sur plusieurs sites web.
 Je lis beaucoup, surtout des livres de fantasy, je dessine et je joue aux échecs.

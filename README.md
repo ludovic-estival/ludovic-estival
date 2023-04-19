@@ -6,9 +6,9 @@
 
 Je suis actuellement étudiant en deuxième année de BUT Informatique à l'IUT de Blagnac.
 
-Je suis intéressé par le développement web, le développement de logiciels et les bases de données.
+Je suis intéressé par le développement web et le développement de logiciels.
 
-Pendant mon temps libre, je travaille sur mes projets personnels. En ce moment, j'apprends JavaScript et je l'utilise sur plusieurs sites web.
+Pendant mon temps libre, je travaille sur mes projets personnels. Par exemple, j'ai appris JavaScript en autodidacte et je l'ai utilisé sur plusieurs sites web.
 Je lis beaucoup, surtout des livres de fantasy, je dessine et je joue aux échecs.
 
 ---
@@ -33,6 +33,10 @@ Projets réalisés pendant la première année:
 - [Implémentation des besoins client](https://github.com/ludovic-estival/projetIUT-besoin-client)
 - [Recueil des besoins client](https://github.com/ludovic-estival/projetIUT-recueil-besoins)
 
+### Expériences professionnelles
+
+- [Stage à l'IMT Mines Albi]()
+
 ### Projets personnels
 
 Mes projets:
@@ -50,7 +54,6 @@ Mes projets:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" title="PHP" alt="Java" width="40" height="40"/>&nbsp;
-
 </div>
 
 <div>
@@ -67,15 +70,9 @@ Mes projets:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludovic-estival&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 ---
 
 ## :iphone: Contact:
-
-
-
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ludovic-estival-a7bb5224b/">

@@ -35,7 +35,7 @@ Projets réalisés pendant la première année:
 
 ### Expériences professionnelles
 
-- [Stage à l'IMT Mines Albi]()
+- Stage à IMT Mines Albi
 
 ### Projets personnels
 

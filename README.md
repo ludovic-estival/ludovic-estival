@@ -16,7 +16,7 @@
 
 - :computer: I'm studying computer science at <a href="https://www.iut-blagnac.fr/fr/">IUT Blagnac</a>.
 
-- :seedling: My current project is a webscraper tool in Python.
+- :seedling: My current project is a web app to manage a card collection and check its value over time.
 
 - :books: I love reading Fantasy books.
 

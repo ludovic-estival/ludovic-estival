@@ -21,6 +21,8 @@
 - :books: I love reading Fantasy books.
 
 - :headphones: I love :metal: music!
+  
+- :page_with_curl: [My portfolio](https://ludovic-estival.github.io/portfolio/)
 
 ---
 

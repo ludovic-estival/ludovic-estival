@@ -16,13 +16,11 @@
 
 - :computer: I'm studying computer science at <a href="https://www.iut-blagnac.fr/fr/">IUT Blagnac</a>.
 
-- :seedling: My current project is a web app to manage a card collection and check its value over time.
+- :seedling: My current project is a CLI app to manage a card collection and track its value over time.
 
 - :books: I love reading Fantasy books.
 
 - :headphones: I love :metal: music!
-  
-- :page_with_curl: [My portfolio](https://ludovic-estival.github.io/portfolio/)
 
 ---
 

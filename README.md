@@ -12,13 +12,11 @@
 
 ### :technologist: About me: 
 
-- :briefcase: I’m currently working at <a href="https://infotel.com/" alt="">Infotel</a>.
+- :seedling: My current projects are:
+    - a web app to manage a card collection and track its value over time.
+    - a web browser textual game
 
-- :computer: I'm studying computer science at <a href="https://www.iut-blagnac.fr/fr/">IUT Blagnac</a>.
-
-- :seedling: My current project is a CLI app to manage a card collection and track its value over time.
-
-- :books: I love reading Fantasy books.
+- :books: I love reading Fantasy and SF books.
 
 - :headphones: I love :metal: music!
 

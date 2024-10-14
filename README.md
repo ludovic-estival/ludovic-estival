@@ -12,11 +12,12 @@
 
 ### :technologist: About me: 
 
-- :seedling: My current projects are:
+- :seedling: My current project is:
     - a web app to manage a card collection and track its value over time.
-    - a web browser textual game
-
+      
 - :books: I love reading Fantasy and SF books.
+
+- :writing_hand: I like writing stories, even if they are bad :upside_down_face:
 
 - :headphones: I love :metal: music!
 

@@ -17,7 +17,7 @@
       
 - :books: I love reading Fantasy and SF books.
 
-- :writing_hand: I like writing stories, even if they are bad :upside_down_face:
+- :writing_hand: I like writing stories, even if they are bad :upside_down_face: . Same for drawing!
 
 - :headphones: I love :metal: music!
 

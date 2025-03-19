@@ -11,11 +11,10 @@
 ---
 
 ### :technologist: About me: 
-
-- :seedling: My current project is:
-    - a web app to manage a card collection and track its value over time.
-      
+    
 - :books: I love reading Fantasy and SF books.
+
+- :telescope: I like astronomy, especially watching the sky with my telescope.
 
 - :writing_hand: I like writing stories, even if they are bad :upside_down_face: . Same for drawing!
 
@@ -25,11 +24,13 @@
 
 ### :mailbox: My social media:
 
-<div>
-  <a href="https://discord.com/users/872113571004297277" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ludovic-estival-a7bb5224b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>Discord</td>
+    <td>trahald123</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/ludovic-estival-a7bb5224b/">Not updated in a while</a></td>
+  </tr>
+</table>
